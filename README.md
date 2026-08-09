@@ -24,5 +24,10 @@ oportunidade em um Centro de Operações de Segurança (SOC) ou ampliar minha ex
     <img src="https://img.shields.io/badge/-Nmap-4F7F2D?style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
+### AI
+<div>
+    <img src="https://img.shields.io/badge/-NotebookLM-D3D3D3?style=for-the-badge&logo=NotebookLM&logoColor=lightblue" />
+</div>
+
 ## Projetos
 - Homelab Secure Server
