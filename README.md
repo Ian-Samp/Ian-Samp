@@ -11,7 +11,11 @@ oportunidade em um Centro de Operações de Segurança (SOC) ou ampliar minha ex
 
 | Habilidade                                         | Projeto Associado         |
 |-----------------------------------------------|----------------------------|
-| Implementação de Processos de GRC             | <a href="https://github.com/Ian-Samp/homelab-secure-server">Homelab Secure Server</a>|
+| Hardening & Defesa em Profundidade            | <a href="https://github.com/Ian-Samp/homelab-secure-server">Homelab Secure Server</a>|
+| Infraestrutura & Networking                   | <a href="https://github.com/Ian-Samp/homelab-secure-server">Homelab Secure Server</a>|
+| MITRE ATT&CK & Cyber Kill Chain               | <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">Guia de Estudos de Frameworks</a>|
+| AI & NotebookLM                               | <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">Guia de Estudos de Frameworks</a>|
+
 
 ## Tools
 
