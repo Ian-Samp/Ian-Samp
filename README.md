@@ -19,15 +19,22 @@ oportunidade em um Centro de Operações de Segurança (SOC) ou ampliar minha ex
 
 ## Tools
 
-### Network
+### Networking
 <div>
-    <img src="https://img.shields.io/badge/-Nmap-4F7F2D?style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-00B390?style=for-the-badge&logo=Nmap&logoColor=white" />
+</div>
+
+### Frameworks
+<div>
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-9D0000?style=for-the-badge&logo=MITRE%20ATT%26CK&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber%20Kill%20Chain-00A122?style=for-the-badge&logo=Cyber%20Kill%20Chain&logoColor=white" />
 </div>
 
 ### AI
 <div>
-    <img src="https://img.shields.io/badge/-NotebookLM-D3D3D3?style=for-the-badge&logo=NotebookLM&logoColor=lightblue" />
+    <img src="https://img.shields.io/badge/-NotebookLM-white?style=for-the-badge&logo=NotebookLM&logoColor=blue" />
 </div>
 
 ## Projetos
-- Homelab Secure Server
+- <a href="https://github.com/Ian-Samp/homelab-secure-server">Homelab Secure Server</a>
+- <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">Guia de Estudos de Frameworks</a>
