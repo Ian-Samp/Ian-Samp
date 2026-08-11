@@ -30,6 +30,12 @@ oportunidade em um Centro de Operações de Segurança (SOC) ou ampliar minha ex
     <img src="https://img.shields.io/badge/-Cyber%20Kill%20Chain-00A122?style=for-the-badge&logo=Cyber%20Kill%20Chain&logoColor=white" />
 </div>
 
+### Programming Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-033E87?style=for-the-badge&logo=Python&logoColor=yellow" /> 
+    <img src="https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=Bash&logoColor=white" /> 
+</div>
+
 ### AI
 <div>
     <img src="https://img.shields.io/badge/-NotebookLM-white?style=for-the-badge&logo=NotebookLM&logoColor=blue" />
