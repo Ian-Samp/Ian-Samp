@@ -41,6 +41,10 @@ oportunidade em um Centro de Operações de Segurança (SOC) ou ampliar minha ex
     <img src="https://img.shields.io/badge/-NotebookLM-white?style=for-the-badge&logo=NotebookLM&logoColor=blue" />
 </div>
 
-## Projetos
+## Repositórios
+### Projetos
 - <a href="https://github.com/Ian-Samp/homelab-secure-server">Homelab Secure Server</a>
 - <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">Guia de Estudos de Frameworks</a>
+### Write Ups
+- <a href="https://github.com/Ian-Samp/metasploit-pentest-lab">Laboratório de Pentest com Metasploitable2</a>
+- <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">CTF Cyber Academy</a>
