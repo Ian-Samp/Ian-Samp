@@ -4,8 +4,7 @@
 Conheci a segurança cibernética por acaso e foi amor à primeira vista. Gosto de desenvolver labs, jogos e outros projetos práticos.
 
 ## Objetivo
-Estou cursando Sistemas de Informação no IFBA e construindo minha base em cibersegurança por meio de cursos e projetos pessoais. Pronto para agarrar uma 
-oportunidade em um Centro de Operações de Segurança (SOC) ou ampliar minha experiência em Help Desk e Infra.
+Estou cursando Sistemas de Informação no IFBA e construindo minha base em cibersegurança por meio de cursos e projetos pessoais. Pronto para provar minhas habilidades seja no Blue ou Red Team, ou ampliar meu conhecimento em um Estágio de TI.
 
 ## Competências
 
