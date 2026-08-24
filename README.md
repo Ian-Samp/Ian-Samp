@@ -3,9 +3,11 @@
 
 Conheci a segurança cibernética por acaso e foi amor à primeira vista. Gosto de desenvolver labs, jogos e outros projetos práticos.
 
+---
 ## Objetivo
 Estou cursando Sistemas de Informação no IFBA e construindo minha base em cibersegurança por meio de cursos e projetos pessoais. Pronto para provar minhas habilidades seja no Blue ou Red Team, ou ampliar meu conhecimento em um Estágio de TI.
 
+---
 ## Competências
 
 | Habilidade                                         | Projeto Associado         |
@@ -15,7 +17,7 @@ Estou cursando Sistemas de Informação no IFBA e construindo minha base em cibe
 | MITRE ATT&CK & Cyber Kill Chain               | <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">Guia de Estudos de Frameworks</a>|
 | AI & NotebookLM                               | <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">Guia de Estudos de Frameworks</a>|
 
-
+---
 ## Tools
 
 #### Networking
@@ -40,6 +42,7 @@ Estou cursando Sistemas de Informação no IFBA e construindo minha base em cibe
     <img src="https://img.shields.io/badge/-NotebookLM-white?style=for-the-badge&logo=NotebookLM&logoColor=blue" />
 </div>
 
+---
 ## Repositórios
 #### Projetos
 - <a href="https://github.com/Ian-Samp/homelab-secure-server">Homelab Secure Server</a>
