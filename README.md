@@ -32,13 +32,13 @@ Estou cursando Sistemas de Informação no IFBA e construindo minha base em cibe
 ## Tools
 
 #### Security & Networking
-`Nmap` • `Metasploit`
+`Nmap` • `Metasploit` • `Hydra`
 
 #### Frameworks & Governança
 `MITRE ATT&CK` • `Cyber Kill Chain`
 
-#### Linguagens & Scripting
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNU-Bash&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+#### Infra & Scripting
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNU-Bash&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 
 ---
 ## Repositórios
