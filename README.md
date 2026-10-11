@@ -11,10 +11,10 @@ Estou cursando Sistemas de Informação no IFBA e construindo minha base em cibe
 ---
 ## Conquistas & Certificações
 - 🥇 [**15º Lugar no CTF Febraban Cyber Academy**](https://github.com/Ian-Samp/Cyber-Academy-CTF) (entre +800 participantes).
+- 🥇 **313º lugar no CTF Guardião Cibernético III - Civil** (entre +2900 participantes)
 - 📜 **Cyber Academy 2026** — FEBRABAN / GoHacking (40h).
 - 📜 **Cibersegurança: Segurança da Informação e Ataques Cibernéticos** — USP / Esalq (8h).
 - 📚 **Hackers do Bem** — RNP (Cursando, 320h)
-- 📚 **Bootcamp: GenAI, Dados & Cyber** — Bradesco / DIO (Cursando, 52h) 
 - 📚 **Básico de Redes** — Cisco Networking Academy (Cursando, 22h)
 
 ---
@@ -26,19 +26,19 @@ Estou cursando Sistemas de Informação no IFBA e construindo minha base em cibe
 | Hardening & Defesa em Profundidade            | <a href="https://github.com/Ian-Samp/homelab-secure-server">Homelab Secure Server</a>|
 | Infraestrutura & Networking                   | <a href="https://github.com/Ian-Samp/homelab-secure-server">Homelab Secure Server</a>|
 | MITRE ATT&CK & Cyber Kill Chain               | <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">Guia de Estudos de Frameworks</a>|
-| AI, RAG & NotebookLM                               | <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">Guia de Estudos de Frameworks</a>|
+| AI, RAG & NotebookLM                          | <a href="https://github.com/Ian-Samp/guia-frameworks-notebooklm">Guia de Estudos de Frameworks</a>|
 
 ---
 ## Tools
 
 #### Security & Networking
-`Nmap` • `Metasploit` • `Hydra`
+`Nmap` • `Metasploit` • `Hydra` • `Wireshark`
 
 #### Frameworks & Governança
-`MITRE ATT&CK` • `Cyber Kill Chain`
+`MITRE ATT&CK` • `Cyber Kill Chain` • `NIST CSF`
 
 #### Infra & Scripting
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNU-Bash&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNU-Bash&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" /> • <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" /> • <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 
 ---
 ## Repositórios
