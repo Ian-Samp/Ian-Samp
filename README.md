@@ -1,3 +1,5 @@
+<img width="736" height="309" alt="image" src="https://github.com/user-attachments/assets/b7706485-fde0-47a7-b868-9aee137465ef" />
+
 # Oi, sou Ian Sampaio
 <a href="https://www.linkedin.com/in/ian-sampaio-095b9a318/"><img src="https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ianpsmoura21@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
